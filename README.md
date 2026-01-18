@@ -1,4 +1,4 @@
-# formenc
+# formenc ![test](https://github.com/tomasbasham/formenc/workflows/test/badge.svg)
 
 A Go module providing encoding and decoding of form data (e.g.,
 `application/x-www-form-urlencoded` and `multipart/form-data`) into Go types,
